@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Mary Poppins",
+        "certificate": "G",
+        "runtime": "139 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Comedy",
+        "description": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "My Fair Lady",
+        "certificate": "G",
+        "runtime": "170 min",
+        "genre": "Drama, Family, Musical",
+        "description": "Snobbish phonetics Professor Henry Higgins agrees to a wager that he can make flower girl Eliza Doolittle presentable in high society.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Goldfinger",
+        "certificate": "PG",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Per un pugno di dollari",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Drama, Western",
+        "description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Marnie",
+        "certificate": "PG",
+        "runtime": "130 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Mark marries Marnie although she is a habitual thief and has serious psychological problems, and tries to help her confront and resolve them.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Seven Days in May",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Drama, Thriller",
+        "description": "United States military leaders plot to overthrow the President because he supports a nuclear disarmament treaty and they fear a Soviet sneak attack.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Zulu",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Drama, History, War",
+        "description": "Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Bargee",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy",
+        "description": "Hemel Pike is a canal barge casanova, aided and abetted by his illiterate cousin, Ronnie. Hemel has a girl in every town along his route, and each one is intent on marriage. He is finally ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Last Man on Earth",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "When a disease turns all of humanity into the living dead, the last man on earth becomes a reluctant vampire hunter.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Your Cheatin' Heart",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Biography, Drama, Music",
+        "description": "The story of the country and western singer Hank Williams.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Les parapluies de Cherbourg",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "A young woman separated from her lover by war faces a life-altering decision.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Train",
+        "certificate": "",
+        "runtime": "133 min",
+        "genre": "Thriller, War",
+        "description": "In 1944, a German colonel loads a train with French art treasures to send to Germany. The Resistance must stop it without damaging the cargo.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Fail-Safe",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Drama, Thriller",
+        "description": "American planes are sent to deliver a nuclear attack on Moscow, but it's a mistake due to an electrical malfunction. Can all-out war be averted?",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Suna no onna",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Drama, Thriller",
+        "description": "An entomologist on vacation is trapped by local villagers into living with a woman whose life task is shoveling sand for them.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Father Goose",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "During World War II, a man persuaded to live on an isolated island and spot aircraft finds himself responsible for a teacher and several students, all female.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "A Hard Day's Night",
+        "certificate": "G",
+        "runtime": "87 min",
+        "genre": "Comedy, Music, Musical",
+        "description": "Over two \"typical\" days in the life of The Beatles, the boys struggle to keep themselves and Sir Paul McCartney's mischievous grandfather in check while preparing for a live television performance.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The Unsinkable Molly Brown",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Biography, Comedy, Musical",
+        "description": "A poor, uneducated mountain girl leaves her cabin in search of respect, a wealthy husband, and a better life in this fictionalized biopic of Margaret \"Molly\" Brown, who survived the 1912 sinking of the RMS Titanic.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Kaidan",
+        "certificate": "",
+        "runtime": "183 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A collection of four Japanese folk tales with supernatural themes.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "A Shot in the Dark",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Mystery",
+        "description": "Inspector Jacques Clouseau investigates the murder of Mr. Benjamin Ballon's driver at a country estate.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Becket",
+        "certificate": "PG-13",
+        "runtime": "148 min",
+        "genre": "Biography, Drama, History",
+        "description": "King Henry II of England comes to terms with his affection for his close friend and confidant Thomas Becket, who finds his true honor by observing God's divine will rather than the King's.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Fall of the Roman Empire",
+        "certificate": "",
+        "runtime": "188 min",
+        "genre": "Drama, History, War",
+        "description": "The death of Marcus Aurelius leads to a succession crisis, in which the deceased emperor's son, Commodus, demonstrates that he is unwilling to let anything undermine his claim to the Roman Empire.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Pawnbroker",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Drama",
+        "description": "A Jewish pawnbroker, victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Night of the Iguana",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Drama",
+        "description": "A defrocked Episcopal clergyman leads a bus-load of middle-aged Baptist women on a tour of the Mexican coast and comes to terms with the failure haunting his life.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Masque of the Red Death",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Horror",
+        "description": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Alexis Zorbas",
+        "certificate": "",
+        "runtime": "142 min",
+        "genre": "Comedy, Drama",
+        "description": "An uptight English writer travelling to Crete, on a matter of business, finds his life changed forever when he meets the gregarious Alexis Zorba.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Fate Is the Hunter",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "An airline executive refuses to believe that pilot error by his friend caused a fatal crash, and persists in looking for another reason.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Deus e o Diabo na Terra do Sol",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Adventure, Crime, Drama",
+        "description": "Fictionalized account of the adventures of hired gunman Antonio das Mortes, set against the real life last days of rural banditism. The movie follows Antonio as he witnesses the descent of ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Onibaba",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Drama, Horror",
+        "description": "Two women kill samurai and sell their belongings for a living. While one of them is having an affair with their neighbor, the other woman meets a mysterious samurai wearing a bizarre mask.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Viva Las Vegas",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, Musical",
+        "description": "Race car driver Lucky Jackson goes to Las Vegas to earn money to pay for a new engine for his motor car. Working as a waiter, he still finds the time to court young Rusty Martin.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Moon-Spinners",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Family, Mystery, Romance",
+        "description": "Travelling through Crete to collect folk songs for the BBC, a British teen and her aunt stumble upon local criminals who are peddling gems stolen from a London bank.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Starfighters",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Drama",
+        "description": "A young Air Force lieutenant falls in love with fighter planes while his father, a Congressman and war hero, yearns for him to fly heavy bombers.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Hush...Hush, Sweet Charlotte",
+        "certificate": "",
+        "runtime": "133 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "6 donne per l'assassino",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A masked, shadowy killer brutally murders the models of a scandalous fashion house in Rome.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Bande \u00e0 part",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Two crooks with a fondness for old Hollywood B-movies convince a languages student to help them commit a robbery.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Killers",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Surprised that their contract victim didn't try to run away from them, two professional hit men try to find out who hired them and why.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Robin and the 7 Hoods",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Comedy, Crime, Musical",
+        "description": "In Chicago, during the Prohibition, two rival gangs compete for control of the city's rackets.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Go Kart Go",
+        "certificate": "",
+        "runtime": "55 min",
+        "genre": "Family",
+        "description": "A group of youngsters have fun using their ingenuity to build their own go-kart - with the hope of eclipsing a rival children's gang, and beating them at the local race track.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Cheyenne Autumn",
+        "certificate": "",
+        "runtime": "154 min",
+        "genre": "Drama, History, Western",
+        "description": "The Cheyenne, tired of broken U.S. government promises, head for their ancestral lands but a sympathetic cavalry officer is tasked to bring them back to their reservation.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Une femme mari\u00e9e: Suite de fragments d'un film tourn\u00e9 en 1964",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "A superifical woman finds conflict choosing between her abusive husband and her vain lover.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Paris - When It Sizzles",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Comedy, Romance",
+        "description": "The sprightly young assistant of a Hollywood screenwriter helps him over his writer's block by acting out his fantasies of possible plots.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Gorgon",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Horror",
+        "description": "In the early twentieth century, a Gorgon takes human form and terrorizes a small European village by turning its citizens to stone.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Soy Cuba",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Drama, History, War",
+        "description": "Four vignettes about the lives of the Cuban people set during the pre-revolutionary era.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Il deserto rosso",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Drama",
+        "description": "In an industrial area, Giuliana, an unstable woman, attempts to cope with life by starting an affair with a co-worker at the plant her husband manages.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Carry On Cleo",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Adventure, Comedy, History",
+        "description": "Two Britons, Hengist and Horsa, are captured and enslaved by invading Romans and taken to Rome. One of their first encounters in Rome leaves Hengist being mistaken for a fighter, and gets drafted into the Royal Guard to protect Caesar.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Incredible Mr. Limpet",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "Meek and mild mannered bookkeeper Henry Limpet has few passions in life. It's mid-1941 and he would love to join the Navy but has been rated 4F. His friend George Stickle is in the Navy and...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Guns of Diablo",
+        "certificate": "U",
+        "runtime": "91 min",
+        "genre": "Romance, Western",
+        "description": "Wagon train scout Linc Murdock reminisces about his old feud with rancher Rance Macklin over pretty Maria during the time when Linc worked for the Macklin ranch.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Long Ships",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Adventure, Drama, History",
+        "description": "A vagabond Viking adventurer and a Moor both compete to find \"The Mother of All Voices\", a legendary golden bell near the Pillars of Hercules.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Third Secret",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "The first secret is what we don't tell people, the second secret is what we don't tell ourselves, and the third secret is the truth. The death of a psychologist is investigated by his teenage daughter and a former patient.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Americanization of Emily",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Comedy, Drama, War",
+        "description": "An American Naval Officer's talent for living the good life in wartime is challenged when he falls in love and is sent on a dangerous mission.",
+        "director": "",
+        "stars": []
+    }
+}

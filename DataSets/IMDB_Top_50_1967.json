@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Bonnie and Clyde",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Action, Biography, Crime",
+        "description": "Bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Doctor Dolittle",
+        "certificate": "",
+        "runtime": "152 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "After the animal communicating veterinarian goes too far for his clientele, he and his friends escape their hometown to the sea in search of the Great Pink Sea Snail.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Graduate",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Dirty Dozen",
+        "certificate": "",
+        "runtime": "150 min",
+        "genre": "Action, Adventure, War",
+        "description": "During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Jungle Book",
+        "certificate": "G",
+        "runtime": "78 min",
+        "genre": "Animation, Adventure, Family",
+        "description": "Bagheera the Panther and Baloo the Bear have a difficult time trying to convince a boy to leave the jungle for human civilization.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Guess Who's Coming to Dinner",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Comedy, Drama",
+        "description": "A couple's attitudes are challenged when their daughter introduces them to her African-American fianc\u00e9.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Casino Royale",
+        "certificate": "",
+        "runtime": "131 min",
+        "genre": "Comedy",
+        "description": "In an early spy spoof, aging Sir James Bond comes out of retirement to take on SMERSH.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "In the Heat of the Night",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "An African-American police detective is asked to investigate a murder in a racially hostile southern town.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Cool Hand Luke",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Crime, Drama",
+        "description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "El Dorado",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Drama, Romance, Western",
+        "description": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Hara. Together with an old Indian fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Valley of the Dolls",
+        "certificate": "PG-13",
+        "runtime": "123 min",
+        "genre": "Drama, Music, Romance",
+        "description": "Film version of Jacqueline Susann's best-selling novel chronicling the rise and fall of three young women in show business.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Dance of the Vampires",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Comedy, Horror",
+        "description": "A noted professor and his dim-witted apprentice fall prey to their inquiring vampires, while on the trail of the ominous damsel in distress.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "You Only Live Twice",
+        "certificate": "PG",
+        "runtime": "117 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Secret Agent James Bond and the Japanese Secret Service must find and stop the true culprit of a series of space hijackings, before war is provoked between Russia and the United States.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The St. Valentine's Day Massacre",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Crime, Drama, History",
+        "description": "Al Capone's Valentine's Day surprise for the rival Bugs Moran gang in 1929 Chicago.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Incident",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Late one night, two young toughs hold hostage the passengers in one car of a New York subway train.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Producers",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Music",
+        "description": "A stage-play producer devises a plan to make money by producing a sure-fire flop.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Belle de jour",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "A frigid young housewife decides to spend her midweek afternoons as a prostitute.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Barefoot in the Park",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy, Romance",
+        "description": "Paul, a conservative young lawyer, marries the vivacious Corie. Their highly passionate relationship descends into comical discord in a five-flight New York City walk-up apartment.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Le samoura\u00ef",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "After professional hitman Jef Costello is seen by witnesses his efforts to provide himself an alibi drive him further into a corner.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The War Wagon",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Western",
+        "description": "The story of a man who was shot, robbed and imprisoned who returns to steal a large gold shipment from the man who wronged him. The gold is transported in an armored stage coach, the War Wagon.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Far from the Madding Crowd",
+        "certificate": "",
+        "runtime": "168 min",
+        "genre": "Drama, History, Romance",
+        "description": "Bathsheba Everdene, a willful, flirtatious, young woman, unexpectedly inherits a large farm and is romantically pursued by three very different men.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Playtime",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Comedy",
+        "description": "Monsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists. Meanwhile, a nightclub/restaurant prepares its opening night, but it's still under construction.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Fathom",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Adventure, Comedy",
+        "description": "In Spain, an American skydiver is recruited by Western intelligence agents to recover a lost H-bomb detonator from hostile foreign agents.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "To Sir, with Love",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama",
+        "description": "Idealistic engineer-trainee and his experiences in teaching a group of rambunctious white high school students from the slums of London's East End.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Born Losers",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "Billy Jack battles outlaw motorcycle gang in a small California beach town.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "In Cold Blood",
+        "certificate": "",
+        "runtime": "134 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "I Call First",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "J.R. is a typical Italian-American on the streets of New York. When he gets involved with a local girl, he decides to get married and settle down, but when he learns that she was once raped...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "I'll Never Forget What's'isname",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama",
+        "description": "The professional and romantic misadventures of an advertising executive in 1960s swinging London.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Way West",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "In 1843, a former U.S. Senator leads a wagon train of settlers to Oregon, but his megalomania leads to growing dissatisfaction with his leadership.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Wait Until Dark",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Horror, Thriller",
+        "description": "A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Point Blank",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the money that was stolen from him.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Hombre",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Western",
+        "description": "John Russell, disdained by his \"respectable\" fellow stagecoach passengers because he was raised by Native Americans, becomes their only hope for survival when they are set upon by outlaws.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Camelot",
+        "certificate": "",
+        "runtime": "179 min",
+        "genre": "Adventure, Fantasy, Musical",
+        "description": "The story of the marriage of England's King Arthur to Guinevere. The plot of illegitimate Mordred to gain the throne and Guinevere's growing attachment to Sir Lancelot, threaten to topple Arthur and destroy his \"round table\" of knights.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Two for the Road",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A couple in the south of France non-sequentially spin down the highways of infidelity in their troubled ten-year marriage.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Viy",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A young priest is ordered to preside over the wake of witch in a small old wooden church of a remote village. This means spending three nights alone with the corpse with only his faith to protect him.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Thoroughly Modern Millie",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Millie Dillmount (Dame Julie Andrews) comes to town in the roaring twenties to encounter flappers, sexuality, and white slavers.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Le streghe",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Five short stories loosely dealing with the roles of women in society.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Chuka",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Western",
+        "description": "While Indians besiege a U.S. Army fort in 1876, residents of the fort, a gunfighter, a stagecoach driver, two Mexican women, and a motley company of soldiers, try to come to terms with their pasts.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "A Countess from Hong Kong",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Comedy, Romance",
+        "description": "In Hong Kong, the ambassador returning to America meets the Russian countess, a refugee without a passport, who decides to hide in his cabin.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Quatermass and the Pit",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Horror, Mystery, Sci-Fi",
+        "description": "A mysterious artifact is unearthed in London, and famous scientist Bernard Quatermass is called into to divine its origins and explain its strange effects on people.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Don't Make Waves",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy",
+        "description": "New York tourist Tony Curtis falls asleep on a Southern California beach on his first night in the West and wakes up to The New Phantasmagoria--catamarans, surfers (including a dog), ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "A Guide for the Married Man",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Comedy, Romance",
+        "description": "A man gives his co-worker a series of lessons on how to cheat on one's wife without being caught.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Taming of the Shrew",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Brutish, fortune-hunting scoundrel Petruchio (Richard Burton) tames his wealthy, shrewish wife, Katharina (Dame Elizabeth Taylor).",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Jag \u00e4r nyfiken - en film i gult",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Drama",
+        "description": "Lena, aged twenty, wants to know all she can about life and reality. She collects information on everyone and everything, storing her findings in an enormous archive. She experiments with ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Bedazzled",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A hapless loser sells his soul to the Devil in exchange for seven wishes, but has trouble winning over the girl of his dreams.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Les demoiselles de Rochefort",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "Two sisters leave their small seaside town of Rochefort in search of romance. Hired as carnival singers, one falls for an American musician, while the other must search for her ideal partner.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Da uomo a uomo",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Western",
+        "description": "A young gunfighter plans to track down and eliminate the bandits who killed his family, and forms a tenuous alliance with an aging ex-outlaw, till the surprising end.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "La collectionneuse",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A womanizing art dealer and a painter find the serenity of their Riviera vacation disturbed by a third guest, a vivacious bohemian woman known for her long list of male conquests.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Rough Night in Jericho",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Romance, Western",
+        "description": "A former deputy and a strong-willed widow determine to stop a ruthless town boss.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Spider Baby or, the Maddest Story Ever Told",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Comedy, Horror",
+        "description": "A caretaker devotes himself to three demented siblings after their father's death.",
+        "director": "",
+        "stars": []
+    }
+}

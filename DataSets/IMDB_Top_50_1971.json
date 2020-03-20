@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "A Clockwork Orange",
+        "certificate": "",
+        "runtime": "136 min",
+        "genre": "Crime, Drama, Sci-Fi",
+        "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Willy Wonka & the Chocolate Factory",
+        "certificate": "U",
+        "runtime": "100 min",
+        "genre": "Family, Fantasy, Musical",
+        "description": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Dirty Harry",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "When a madman calling himself \"the Scorpio Killer\" menaces the city, tough as nails San Francisco Police Inspector \"Dirty\" Harry Callahan is assigned to track down and ferret out the crazed psychopath.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Last Picture Show",
+        "certificate": "R",
+        "runtime": "118 min",
+        "genre": "Drama, Romance",
+        "description": "In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied West Texas town that is slowly dying, both culturally and economically.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Le Mans",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Almost at the verge of documentary, film depicts a single auto race from the ground up.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The French Connection",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Bedknobs and Broomsticks",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "An apprentice witch, three kids and a cynical magician conman search for the missing component to a magic spell to be used in the defense of Britain in World War II.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Diamonds Are Forever",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "A diamond smuggling investigation leads James Bond to Las Vegas, where he uncovers an evil plot involving a rich business tycoon.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Fiddler on the Roof",
+        "certificate": "",
+        "runtime": "181 min",
+        "genre": "Drama, Family, Musical",
+        "description": "In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Play Misty for Me",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama, Thriller",
+        "description": "The life of a disc jockey is turned upside down after a romantic encounter with an obsessed fan.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Andromeda Strain",
+        "certificate": "",
+        "runtime": "131 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "A team of top scientists work feverishly in a secret, state-of-the-art laboratory to discover what has killed the citizens of a small town and learn how this deadly contagion can be stopped.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Klute",
+        "certificate": "R",
+        "runtime": "114 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "A small-town detective searching for a missing man has only one lead: a connection with a New York prostitute.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Devils",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Biography, Drama, History",
+        "description": "In 17th-century France, Father Urbain Grandier seeks to protect the city of Loudun from the corrupt establishment of Cardinal Richelieu. Hysteria occurs within the city when he is accused of witchcraft by a sexually repressed nun.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Harold and Maude",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Walkabout",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Adventure, Drama",
+        "description": "Two city-bred siblings are stranded in the Australian Outback, where they learn to survive with the aid of an Aboriginal boy on his \"walkabout\": a ritual separation from his tribe.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "THX 1138",
+        "certificate": "R",
+        "runtime": "86 min",
+        "genre": "Drama, Sci-Fi, Thriller",
+        "description": "In the twenty-fifth century, a time when people have designations instead of names, a man, THX 1138, and a woman, LUH 3417, rebel against their rigidly controlled society.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Big Jake",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Western",
+        "description": "In 1909, when John Fain's gang kidnaps Jacob McCandles' grandson and holds him for ransom, Big Jake sets out to rescue the boy.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Carnal Knowledge",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Drama",
+        "description": "Chronicling the lifelong sexual development of two men who meet and befriend one another in college.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Straw Dogs",
+        "certificate": "R",
+        "runtime": "113 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A young American and his English wife come to rural England and face increasingly vicious local harassment.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Anderson Tapes",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "After Duke Anderson is released from prison after ten years for taking the rap for a scion of a Mafia family, he cashes in a debt of honor with the mob to bankroll a caper.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Vanishing Point",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "During the 1970s, car delivery driver Kowalski delivers hot rods in record time but always runs into trouble with the highway cops.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Shaft",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Cool black private eye John Shaft is hired by a crime lord to find and retrieve his kidnapped daughter.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Soleil rouge",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Action, Western",
+        "description": "In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift from Japan to the U.S. President, prompting a manhunt to retrieve it.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Gi\u00f9 la testa",
+        "certificate": "",
+        "runtime": "157 min",
+        "genre": "Drama, War, Western",
+        "description": "A low-life bandit and an IRA explosives expert rebel against the existing government and become heroes of the Mexican Revolution.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Omega Man",
+        "certificate": "A",
+        "runtime": "98 min",
+        "genre": "Action, Drama, Sci-Fi",
+        "description": "Lone survivor, doctor Robert Neville, struggles to create a cure for the plague that wiped out most of the human race while fighting The Family, a savage luddite death cult formed by the zombie-like infected to erase the past.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Tragedy of Macbeth",
+        "certificate": "",
+        "runtime": "140 min",
+        "genre": "Biography, Drama, History",
+        "description": "A ruthlessly ambitious Scottish lord seizes the throne with the help of his scheming wife and a trio of witches.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Beguiled",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, Thriller, War",
+        "description": "While imprisoned in a Confederate girls' boarding school, an injured Union soldier cons his way into each of the lonely women's hearts, causing them to turn on each other, and eventually, on him.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Johnny Got His Gun",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Drama, War",
+        "description": "In this tragic, dark, anti-war satire, a patriotic young American in WW1 is rendered blind, deaf, limbless, and mute by a horrific artillery shell attack. Trapped in what's left of his body, he desperately looks for a way to end his life.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Two-Lane Blacktop",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama",
+        "description": "2 men drag-racing across the U.S., in a '55 Chevy. Dennis Wilson's the mechanic, James Taylor's the driver.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Morte a Venezia",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Drama",
+        "description": "While recovering in Venice, sickly Composer Gustav von Aschenbach becomes dangerously fixated with teenager Tadzio.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Get Carter",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "When his brother dies under mysterious circumstances in a car accident, London gangster Jack Carter travels to Newcastle to investigate.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "McCabe & Mrs. Miller",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Drama, Western",
+        "description": "A gambler and a prostitute become business partners in a remote Old West mining town, and their enterprise thrives until a large corporation arrives on the scene.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Panic in Needle Park",
+        "certificate": "PG",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "Follows the lives of heroin addicts who frequent \"Needle Park\" in New York City.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Brother John",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Drama, Sci-Fi",
+        "description": "A man who returns to his hometown for a funeral may have a much larger purpose in life than those around him can see.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Mary, Queen of Scots",
+        "certificate": "PG-13",
+        "runtime": "128 min",
+        "genre": "Biography, Drama, History",
+        "description": "During the sixteenth century, the Catholic Mary, Queen of Scots engages in over two decades of religious and political conflict with her cousin, the Protestant Queen Elizabeth I of England, amidst political intrigue in her native land.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Il Decameron",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama, History",
+        "description": "An adaptation of nine stories from Boccaccio's \"Decameron\".",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Lawman",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Adventure, Western",
+        "description": "A lawman from Bannock arrives in Sabbath to arrest all the cattlemen whose wild celebration the year before resulted in the accidental death of an old man.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Raging Moon",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Drama, Romance",
+        "description": "Bruce Pritchard is paralysed mysteriously after his Brothers wedding. Rejected by his family, he is placed in a nursing home. Angry and depressed, he finds hope with a nurse. Can Bruce find a life outside the home?",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Mais ne nous d\u00e9livrez pas du mal",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama, Horror",
+        "description": "During summer break, two bored Catholic schoolgirls vow to become Satanists and play a series of increasingly dangerous and morbid games.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Hannie Caulder",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Crime, Drama, Western",
+        "description": "After she is raped and her husband murdered, a woman hires a bounty hunter to instruct her in the use of a gun so she can get her revenge on the three outlaws responsible.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Billy Jack",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Action, Drama, Western",
+        "description": "Ex-Green Beret hapkido expert saves wild horses from being slaughtered for dog food and helps protect a desert \"freedom school\" for runaway.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Light at the Edge of the World",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "A ruthless pirate captures the keeper of a lighthouse, in the most southern city in Argentina. His goal is obvious and horrific. He plans to control the lighthouses signals in a way that the passing ships will be crushed on the rocks.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Let's Scare Jessica to Death",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "A recently institutionalized woman has bizarre experiences after moving into a supposedly haunted country farmhouse and fears she may be losing her sanity once again.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Summer of '42",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "During his summer vacation on Nantucket Island in 1942, a youth eagerly awaiting his first sexual encounter finds himself developing an innocent love for a young woman awaiting news on her soldier husband's fate in WWII.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Anand",
+        "certificate": "U",
+        "runtime": "122 min",
+        "genre": "Drama, Musical",
+        "description": "The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Hospital",
+        "certificate": "PG-13",
+        "runtime": "103 min",
+        "genre": "Comedy, Drama, Mystery",
+        "description": "An over-burdened doctor struggles to find meaning in his life while a murderer stalks the halls of his hospital.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Wake in Fright",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Drama, Thriller",
+        "description": "After a bad gambling bet, a schoolteacher is marooned in a town full of crazy, drunk, violent men who threaten to make him just as crazy, drunk, and violent.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Twins of Evil",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Horror",
+        "description": "A religious sect led by Gustav Weil hunts all women suspected of witchcraft, killing a number of innocent victims. Young Katy, Gustav's niece, will involve herself in a devilish cult, and become an instrument of Justice in the region.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Vampyros Lesbos",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Drama, Horror",
+        "description": "An erotic horror tale about a vixen vampiress seducing and killing women to appease her insatiable thirst for female blood.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "A Gunfight",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Romance, Western",
+        "description": "Two aging gunfighters in need of money come to an agreement to organize an actual showdown between them and sell tickets for it. The townsfolk is more than interested to see the \"show\".",
+        "director": "",
+        "stars": []
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Tonari no Totoro",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Animation, Family, Fantasy",
+        "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Willow",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A young farmer is chosen to undertake a perilous journey in order to protect a special baby from an evil queen.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Coming to America",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Comedy, Romance",
+        "description": "An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and will.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Beetlejuice",
+        "certificate": "PG",
+        "runtime": "92 min",
+        "genre": "Comedy, Fantasy",
+        "description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Die Hard",
+        "certificate": "A",
+        "runtime": "132 min",
+        "genre": "Action, Thriller",
+        "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Big",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Hotaru no haka",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Animation, Drama, War",
+        "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Mississippi Burning",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Crime, Drama, History",
+        "description": "Two F.B.I. Agents with wildly different styles arrive in Mississippi to investigate the disappearance of some civil rights activists.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Who Framed Roger Rabbit",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Bull Durham",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Comedy, Romance, Sport",
+        "description": "A fan who has an affair with one minor-league baseball player each season meets an up-and-coming pitcher and the experienced catcher assigned to him.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "They Live",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "A drifter discovers a pair of sunglasses that allow him to wake up to the fact that aliens have taken over the Earth.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Rain Man",
+        "certificate": "",
+        "runtime": "133 min",
+        "genre": "Drama",
+        "description": "Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Akira",
+        "certificate": "R",
+        "runtime": "124 min",
+        "genre": "Animation, Action, Drama",
+        "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Earth Girls Are Easy",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A Southern California girl befriends three furry aliens after their spaceship lands in her swimming pool.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Nuovo Cinema Paradiso",
+        "certificate": "R",
+        "runtime": "155 min",
+        "genre": "Drama",
+        "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Police Academy 5: Assignment: Miami Beach",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Crime",
+        "description": "The Police Academy's commandant will be honored at a police convention in Miami Beach. At the airport he picks a wrong bag with stolen diamonds. The \"owners\" want them back.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Dangerous Liaisons",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Romance",
+        "description": "A scheming widow and her manipulative ex-lover make a bet regarding the corruption of a recently married woman.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The Last Temptation of Christ",
+        "certificate": "",
+        "runtime": "164 min",
+        "genre": "Drama",
+        "description": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Naked Gun: From the Files of Police Squad!",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, Crime",
+        "description": "Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Working Girl",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Rambo III",
+        "certificate": "A",
+        "runtime": "102 min",
+        "genre": "Action, Adventure",
+        "description": "Rambo mounts a one-man mission to rescue his friend Colonel Trautman from the clutches of the formidable invading Soviet forces in Afghanistan.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Child's Play",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Horror, Thriller",
+        "description": "A single mother gives her son a much sought-after doll for his birthday, only to discover that it is possessed by the soul of a serial killer.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Oliver & Company",
+        "certificate": "",
+        "runtime": "74 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A lost and alone kitten joins a gang of dogs engaged in petty larceny in New York City.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Running on Empty",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Crime, Drama, Music",
+        "description": "The eldest son of a fugitive family comes of age and wants to live a life of his own.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Accused",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Crime, Drama",
+        "description": "After a young woman suffers a brutal gang rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Bloodsport",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Action, Biography, Drama",
+        "description": "Follows Frank Dux, an American martial artist serving in the military, who decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Midnight Run",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "An accountant is chased by bounty hunters, the F.B.I., and the Mafia after jumping bail.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Cocktail",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A talented New York City bartender takes a job at a bar in Jamaica and falls in love.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Twins",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy, Crime",
+        "description": "A physically perfect but innocent man goes in search of his long-lost twin brother, who is short, a womanizer, and small-time crook.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Land Before Time",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "A Fish Called Wanda",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Comedy, Crime",
+        "description": "In London, four very different people team up to commit armed robbery, then try to doublecross each other for the loot.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Young Guns",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Action, Western",
+        "description": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Unbearable Lightness of Being",
+        "certificate": "",
+        "runtime": "171 min",
+        "genre": "Drama, Romance",
+        "description": "In 1968, a Czech doctor with an active sex life meets a woman who wants monogamy, and then the Soviet invasion further disrupts their lives.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Big Business",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy",
+        "description": "Two couples of sisters from New York and from the countryside discover that they are connected in an incredible way.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Mystic Pizza",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Three teenage girls come of age while working at a pizza parlor in the Connecticut town of Mystic.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Beaches",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "A privileged rich debutante and a cynical struggling entertainer share a turbulent, but strong childhood friendship over the years.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Blob",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "A deadly entity from space crashes near a small town and starts to consume anyone in its path. Panic ensues, as shady government scientists try to contain the horrific creature.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Hairspray",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A 'pleasantly plump' teenager teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Dirty Rotten Scoundrels",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Comedy, Crime",
+        "description": "Two con men try to settle their rivalry by betting on who can swindle a young American heiress out of fifty thousand dollars first.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Adventures of Baron Munchausen",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "'Crocodile' Dundee II",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Australian outback expert protects his New York love from gangsters who've followed her down under.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Dark Side of the Sun",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Drama, Romance",
+        "description": "Traveling in search of a cure for a rare skin disease, a man finds freedom and love along the way.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Elvira: Mistress of the Dark",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy, Horror",
+        "description": "Upon arriving in a small town where she has inherited a rundown mansion, a famous horror hostess battles an evil uncle, and townspeople who want her burned at the stake.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Mujeres al borde de un ataque de \"nervios\"",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Drama",
+        "description": "A television actress encounters a variety of eccentric characters after embarking on a journey to discover why her lover abruptly left her.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "License to Drive",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy",
+        "description": "A teen decides to go for a night on the town with his friends despite flunking his driver's test.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Le grand bleu",
+        "certificate": "PG",
+        "runtime": "168 min",
+        "genre": "Adventure, Drama, Sport",
+        "description": "The rivalry between Enzo and Jacques, two childhood friends and now world-renowned free divers, becomes a beautiful and perilous journey into oneself and the unknown.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Sleepaway Camp II: Unhappy Campers",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy, Horror",
+        "description": "Angela, supposedly reformed and living under an assumed surname, is working at a summer camp. However, when the campers start misbehaving, she soon reverts to her old ways.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Two Moon Junction",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "A young Southern d\u00e9butante temporarily abandons her posh lifestyle and upcoming, semi-arranged marriage to have a lustful and erotic fling with a rugged drifter who works at a local carnival.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Frantic",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "In a hotel room in Paris, a doctor comes out of the shower and finds that his wife has disappeared. He soon finds himself caught up in a world of intrigue, espionage, gangsters, drugs and murder.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Mac and Me",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "An alien trying to escape from NASA is befriended by a wheelchair-bound boy.",
+        "director": "",
+        "stars": []
+    }
+}

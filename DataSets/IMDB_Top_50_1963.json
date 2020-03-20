@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Great Escape",
+        "certificate": "",
+        "runtime": "172 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "The Birds",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Donovan's Reef",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "Comedy subtly dealing with moral issues such as racial bigotry, corporate greed, American belief of societal superiority and hypocrisy.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "It's a Mad Mad Mad Mad World",
+        "certificate": "",
+        "runtime": "205 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A group of motorists hear about a crook's hidden stash of loot, and race against each other across the country to get to it.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "8\u00bd",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Drama",
+        "description": "A harried movie director retreats into his memories and fantasies.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "From Russia with Love",
+        "certificate": "PG",
+        "runtime": "115 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond willingly falls into an assassination plot involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by S.P.E.C.T.R.E.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "McLintock!",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Comedy, Romance, Western",
+        "description": "Wealthy rancher G.W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Cleopatra",
+        "certificate": "G",
+        "runtime": "192 min",
+        "genre": "Biography, Drama, History",
+        "description": "Queen Cleopatra VII of Egypt experiences both triumph and tragedy as she attempts to resist the imperial ambitions of Rome.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Charade",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Comedy, Mystery, Romance",
+        "description": "Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Sword in the Stone",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A poor boy named Arthur learns the power of love, kindness, knowledge and bravery with the help of a wizard called Merlin in the path to become one of the most beloved kings in English history.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Lord of the Flies",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "Lost on an island, young survivors of a plane crash eventually revert to savagery despite the few rational boys' attempts to prevent that.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Tengoku to jigoku",
+        "certificate": "",
+        "runtime": "143 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Mind Benders",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Drama, Thriller",
+        "description": "Dedicated British scientist Dr. Henry Laidlaw Longman (Sir Dirk Bogarde) tests the possibility of brainwashing. If the experiment succeeds, he will stop loving his wife Oonagh (Mary Ure).",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Jason and the Argonauts",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Action, Adventure, Family",
+        "description": "The legendary Greek hero leads a team of intrepid adventurers in a perilous quest for the legendary Golden Fleece.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Pink Panther",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "The bumbling Inspector Clouseau travels to Rome to catch a notorious jewel thief known as \"The Phantom\" before he conducts his most daring heist yet: a princess' priceless diamond with one slight imperfection, known as \"The Pink Panther\".",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Le m\u00e9pris",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Drama, Romance",
+        "description": "Screenwriter Paul Javal's marriage to his wife Camille disintegrates during movie production as she spends time with the producer. Layered conflicts between art and business ensue.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Hud",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Drama, Western",
+        "description": "Honest and hard-working Texas rancher Homer Bannon has a conflict with his unscrupulous, selfish, arrogant and egotistical son Hud, who sank into alcoholism after accidentally killing his brother in a car crash.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Bye Bye Birdie",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Comedy, Musical",
+        "description": "A rock singer travels to a small Ohio town to make his \"farewell\" television performance and kiss his biggest fan before he is drafted.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Il gattopardo",
+        "certificate": "",
+        "runtime": "186 min",
+        "genre": "Drama, History",
+        "description": "The Prince of Salina, a noble aristocrat of impeccable integrity, tries to preserve his family and class amid the tumultuous social upheavals of 1860's Sicily.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Nutty Professor",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy, Romance, Sci-Fi",
+        "description": "To improve his social life, a nerdish professor drinks a potion that temporarily turns him into the handsome, but obnoxious, Buddy Love.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Haunting",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Horror",
+        "description": "A scientist doing research on the paranormal invites two women to a haunted mansion. One of the participants soon starts losing her mind.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Tom Jones",
+        "certificate": "",
+        "runtime": "129 min",
+        "genre": "Adventure, Comedy, History",
+        "description": "The romantic and chivalrous adventures of adopted bastard Tom Jones in 18th century England.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Crawling Hand",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "The hand of a dead astronaut comes crawling back from the grave to strangle the living",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "For Love or Money",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Comedy, Romance",
+        "description": "Wealthy Chloe Brasher has three beautiful daughters; Bonnie, Kate, and Jan. Chloe pays attorney Deke Gentry to fix them up with three suitable husbands.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Irma la Douce",
+        "certificate": "",
+        "runtime": "147 min",
+        "genre": "Comedy, Romance",
+        "description": "In Paris, a former policeman falls in love with a prostitute, and tries to get her out of that life by paying for all of her time.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Ieri oggi domani",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Comedy, Romance",
+        "description": "Stories about three very different women and the men they attract.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The V.I.P.s",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama",
+        "description": "As fog delays departure for a group of travellers bound for New York City, they wait at the lounge of London's Heathrow airport, with each passenger at a moment of crisis in his or her life.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The List of Adrian Messenger",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Mystery, Thriller",
+        "description": "A former intelligence officer is tasked by the heir to the Gleneyre estate to investigate the unusual deaths of a disparate group of eleven men on a list.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Nattvardsg\u00e4sterna",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Drama",
+        "description": "A small-town priest struggles with his faith.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Lilies of the Field",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Drama",
+        "description": "A travelling handyman becomes the answer to the prayers of nuns who wish to build a chapel in the desert.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "I Could Go on Singing",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama, Musical",
+        "description": "Jenny Bowman is a successful singer who visits David Donne to see her son Matt again, spending a few glorious days with him while his father is away in Rome in an attempt to attain the family that she never had.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Servant",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Drama",
+        "description": "Upper-class Tony hires servant Hugo Barrett, who turns out to have a hidden agenda.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Palm Springs Weekend",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama",
+        "description": "Set in Palm Springs, California during a long, fun-filled weekend where several Los Angeles college students flock to spring break, centering on Jim who finds romance with Bunny, the ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "I tre volti della paura",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Horror",
+        "description": "Boris Karloff hosts a trio of horror stories concerning a stalked call girl, a vampire-like monster who preys on his family, and a nurse who is haunted by her ring's rightful owner.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Tystnaden",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Drama",
+        "description": "Two estranged sisters, Ester and Anna, and Anna's 10-year-old son travel to the Central European country on the verge of war. Ester becomes seriously ill and the three of them move into a hotel in a small town called Timoka.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Caretakers",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Drama",
+        "description": "Medical drama about mentally-ill patients and their professional caregivers, as well as the new group-therapy sessions aiming to replace the traditional physical restraint and electroshock treatments.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Move Over, Darling",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Comedy, Romance",
+        "description": "After having been lost at sea for several years, a missing wife thought long dead returns just after her husband has remarried.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Incredible Journey",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "The story of three pets, a cat and two dogs, who lose their owners when they are all on vacation. Can they find their way home?",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Dementia 13",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Horror, Thriller",
+        "description": "Shocked by the death of her spouse, a scheming widow hatches a bold plan to get her hands on the inheritance, unaware that she is targeted by an axe-wielding murderer who lurks in the family's estate. What mystery shrouds the noble house?",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Showdown",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Western",
+        "description": "A cowboy has to get 12,000 dollars in stolen bonds from the ex-girlfriend of his partner, or the gang holding him hostage will kill him.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Raven",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "A magician, who has been turned into a raven, turns to a former sorcerer for help.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Day of the Triffids",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Terror",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Horror, Thriller",
+        "description": "A young officer in Napoleon's Army pursues a mysterious woman to the castle of an elderly Baron.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "M\u00e9lodie en sous-sol",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Charles (Jean Gabin), a sixtyish career criminal fresh out of jail, rejects his wife's plan for a quiet life of bourgeois respectability. He enlists a former cellmate, Francis (Alain Delon)...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Love with the Proper Stranger",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Angie Rossini is an innocent Italian Catholic Macy's salesgirl, who discovers she's pregnant from a fling with Rocky, a musician. Angie finds Rocky (who doesn't remember her at first) to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "A Child Is Waiting",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama",
+        "description": "Psychologist Dr. Matthew Clark is the head of the Crawthorne State Training Institute, one of the first boarding schools for developmentally challenged children. Dr. Clark is sympathetic ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Shock Corridor",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Drama, Mystery",
+        "description": "Bent on winning a Pulitzer Prize, a journalist commits himself to a mental institution to solve a strange and unclear murder.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "55 Days at Peking",
+        "certificate": "",
+        "runtime": "154 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "During the 1900 Boxer Rebellion, U.S. marine, Maj. Matt Lewis, along with British consul, Sir Arthur Robertson, develop a plan to keep the rebels at bay until an international military relief force can arrive.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Kiss of the Vampire",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Horror",
+        "description": "When car trouble strands a honeymooning couple in a small Southern European village, an aristocratic family in the area reaches out to help them with sinister consequences.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "X",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "A doctor uses special eye drops to give himself x-ray vision, but the new power has disastrous consequences.",
+        "director": "",
+        "stars": []
+    }
+}

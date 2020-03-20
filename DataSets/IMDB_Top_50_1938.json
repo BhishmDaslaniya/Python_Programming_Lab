@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Adventures of Robin Hood",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "The Lady Vanishes",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Film-Noir, Mystery, Thriller",
+        "description": "While travelling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Of Human Hearts",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Drama, Western",
+        "description": "Ethan Wilkins is a poor and honest man who ministers to the human soul, while his son Jason yearns to be a doctor, helping people in the earthly realm.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "You Can't Take It with You",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A man from a family of rich snobs becomes engaged to a woman from a good-natured but decidedly eccentric family.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Bringing Up Baby",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy, Family, Romance",
+        "description": "While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Carefree",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A psychiatrist agrees to hypnotize his friend's girlfriend in order to convince her to accept his proposals of marriage, but she ends up falling for the psychiatrist instead.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Holiday",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance",
+        "description": "A young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fianc\u00e9e's eccentric sister and long-suffering brother.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Jezebel",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "In 1850s Louisiana, a free-spirited Southern belle loses her fianc\u00e9 due to her stubborn vanity and pride, and vows to win him back.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Angels with Dirty Faces",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A priest tries to stop a gangster from corrupting a group of street kids.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Three Comrades",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Drama, Romance",
+        "description": "The close friendship of three German soldiers is strengthened by their shared love for the same woman, who is dying of tuberculosis.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Aleksandr Nevskiy",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Action, Biography, Drama",
+        "description": "The story of how a great Russian prince led a ragtag army to battle an invading force of Teutonic Knights.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Pygmalion",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A phonetics and diction expert makes a bet that he can teach a cockney flower girl to speak proper English and pass as a lady in high society.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "A Christmas Carol",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Drama, Family, Fantasy",
+        "description": "On Christmas Eve, Ebenezer Scrooge is visited by the spirit of his former partner, Jacob Marley. The deceased partner was as mean and miserly as Scrooge is now and he warns him to change his ways or face the consequences in the afterlife.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "I Met My Love Again",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Romance",
+        "description": "College sweethearts Julie and Ives have planned to marry. Their plans go amiss when Julie meets a weak writer and runs off to marry him. After her husband dies, she's left in Paris, ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Algiers",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "Beautiful Gaby meets a romantic jewel thief in the mysterious Casbah.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "In Old Mexico",
+        "certificate": "",
+        "runtime": "67 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "Escaped criminal \"The Fox\" hates Hoppy and a Rurales colonel for imprisoning him and lures Cassidy to Mexico in order to exact his vengeance.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Marie Antoinette",
+        "certificate": "",
+        "runtime": "149 min",
+        "genre": "Biography, Drama, History",
+        "description": "The tragic life of Marie Antoinette, who became queen of France in her late teens.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Love Finds Andy Hardy",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Romance",
+        "description": "Andy has problems raising the last payment for a used car and juggling three pretty girls with an upcoming country club dance scheduled.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Boys Town",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Biography, Drama",
+        "description": "When a death row prisoner tells him he wouldn't have led a life of crime if only he had had one friend as a child, Father Edward Flanagan decides to do something about. An advocate of child...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Adventures of Tom Sawyer",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "Tom Sawyer and his pal Huckleberry Finn have great adventures on the Mississippi River, pretending to be pirates, attending their own funeral and witnessing a murder.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "En kvinnas ansikte",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Drama",
+        "description": "An embittered woman, leader of a criminal gang, has a change of heart.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Le quai des brumes",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A military deserter finds love and trouble (and a small dog) in a smoky French port city.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "La b\u00eate humaine",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Crime, Drama",
+        "description": "In this classic adaptation of Emile Zola's novel, a tortured train engineer falls in love with a troubled married woman who has helped her husband commit a murder.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Flash Gordon's Trip to Mars",
+        "certificate": "",
+        "runtime": "299 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When a deadly Nitron ray strikes Earth, Flash Gordon and his friends travel to Mars to battle Ming the Merciless and his new ally Queen Azura.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "In Old Chicago",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Action, Drama, Musical",
+        "description": "The O'Leary brothers -- honest Jack and roguish Dion -- become powerful figures, and eventually rivals, in Chicago on the eve of its Great Fire.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Blondie",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Comedy, Family",
+        "description": "Dagwood loses his job on the eve of his and Blondie's fifth wedding anniversary.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Merrily We Live",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance",
+        "description": "Dizzy society matron Emily Kilbourne has a habit of hiring ex-cons and hobos as servants. Her latest find is a handsome \"tramp\" who shows up at her doorstep and soon ends up in a ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Bluebeard's Eighth Wife",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, Romance",
+        "description": "After learning her multi-millionaire fianc\u00e9 has already been married seven times, the daughter of a penniless marquis decides to tame him.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "H\u00f4tel du Nord",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama, Romance",
+        "description": "On the meandering Canal St. Martin, at the Parisian H\u00f4tel du Nord, a nearly fatal gunshot separates a dejected young couple. But, amid a sad but beautiful panorama of lively characters, love has the final say. Can life be a fairy tale?",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Child Bride",
+        "certificate": "",
+        "runtime": "62 min",
+        "genre": "Drama",
+        "description": "Schoolteacher in a rural community campaigns to stop the practice of older men marrying young, underage girls.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Booloo",
+        "certificate": "",
+        "runtime": "61 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "A young-stiff-upper-lipped British officer, Robert Rogers writes a book about a white tiger and sacrifices of native girls by the Sakai tribe in Malaya. But the critics ridicule the book. ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Dawn Patrol",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "War, Drama",
+        "description": "British flying aces in World War I contend with the harsh realities of war.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Listen, Darling",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "To stop Pinkie's mother Dottie from marrying a man they know she does not love, Pinkie and her friend Buzz kidnap her in the family trailer to live a life on the open road without worries ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Vivacious Lady",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Romance",
+        "description": "A professor marries a nightclub singer, much to the consternation of his family and friends back home.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Mad Miss Manton",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "When the murdered body discovered by beautiful, vivacious socialite Melsa Manton disappears, police and press label her a prankster until she proves them wrong.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "St. Martin's Lane",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy",
+        "description": "On the sidewalks of the London theater district the buskers (street performers) earn enough coins for a cheap room. Charles (Charles Laughton), who recites dramatic monologues, sees that a ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Citadel",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "Andrew Manson (Robert Donat), a young, enthusiastic doctor takes his first job in a Welsh mining town, and begins to wonder at the persistent cough many of the miners have. When his ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Alexander's Ragtime Band",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Drama, Music, Musical",
+        "description": "This send-up of ragtime song and dance begins in 1915 San Francisco when society boy Roger Grant decides to pursue popular rather than serious music.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Rebecca of Sunnybrook Farm",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Rebecca's Uncle Harry leaves her with Aunt Miranda who forbids her to associate with show people. But neighbor Anthony Kent is a talent scout who secretly set it up for her to broadcast.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Block-Heads",
+        "certificate": "",
+        "runtime": "57 min",
+        "genre": "Comedy, War",
+        "description": "Stan, who has remained faithfully at his World War I post for twenty years, finally comes home where his best friend, Ollie, takes him in, thus allowing him to discover the many conveniences of the modern world.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Everybody Sing",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Judy Bellaire, played by Judy Garland, is the center of trouble at her exclusive private and very conservative school. She is expelled when she starts singing in a Jazzy style in her music ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Tarzan's Revenge",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Eleanor and her parents are hunting big game, acompanied by her wimpish fiance. Ben lleu Bey wants to add her to his 100-woman harem. Tarzan wants her too.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Terror of Tiny Town",
+        "certificate": "",
+        "runtime": "62 min",
+        "genre": "Western",
+        "description": "An evil gunslinging midget comes to terrorize the good little people of Tiny Town. The townspeople organize to defeat him, and zany antics ensue",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Nancy Drew: Detective",
+        "certificate": "",
+        "runtime": "66 min",
+        "genre": "Comedy, Mystery",
+        "description": "After a wealthy dowager who has made a substantial donation her alma mater suddenly disappears, Nancy Drew sets out to solve the mystery.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Four Daughters",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Music, Romance",
+        "description": "Adam Lemp, the Dean of the Briarwood Music Foundation, has passed on his love of music to his four early adult daughters - Thea, Emma, Kay and Ann - who live with him and his sister, the ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Baroness and the Butler",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A butler gets elected to the Hungarian parliament where he opposes his master's government.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Room Service",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Comedy",
+        "description": "A penniless theatrical producer must outwit the hotel efficiency expert trying to evict him from his room, while securing a backer for his new play.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Sisters",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama",
+        "description": "Three daughters of a small town pharmacist undergo trials and tribulations in their problematic marriages between 1904 and 1908.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Young in Heart",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Drama",
+        "description": "Thrown out of the Riviera, a family of grifters meets a lonely, vulnerable rich old woman and insinuate themselves into her life while they sponge off her.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Buccaneer",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "Semi-fictional account of pirate Jean Lafitte's involvement in the War of 1812.",
+        "director": "",
+        "stars": []
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Young Philadelphians",
+        "certificate": "",
+        "runtime": "136 min",
+        "genre": "Drama",
+        "description": "A promising lawyer tries to handle his social and professional problems while climbing the ranks in Philadelphia.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Some Like It Hot",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Comedy, Music, Romance",
+        "description": "When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Ben-Hur",
+        "certificate": "",
+        "runtime": "212 min",
+        "genre": "Adventure, Drama, History",
+        "description": "When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "North by Northwest",
+        "certificate": "",
+        "runtime": "136 min",
+        "genre": "Adventure, Mystery, Thriller",
+        "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Anatomy of a Murder",
+        "certificate": "",
+        "runtime": "161 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "In a murder trial, the defendant says he suffered temporary insanity after the victim raped his wife. What is the truth, and will he win his case?",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Sleeping Beauty",
+        "certificate": "G",
+        "runtime": "75 min",
+        "genre": "Animation, Family, Fantasy",
+        "description": "After being snubbed by the royal family, a malevolent fairy places a curse on a princess which only a prince can break, along with the help of three good fairies.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Rio Bravo",
+        "certificate": "",
+        "runtime": "141 min",
+        "genre": "Action, Drama, Western",
+        "description": "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Les quatre cents coups",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Crime, Drama",
+        "description": "A young boy, left without attention, delves into a life of petty crime.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The World, The Flesh and The Devil",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama, Romance, Sci-Fi",
+        "description": "A miner trapped in a cave-in resurfaces, and upon discovering mankind has been wiped out in a nuclear holocaust, sets out to find other survivors.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Suddenly, Last Summer",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "The only son of wealthy widow Violet Venable dies while on vacation with his cousin Catherine. What the girl saw was so horrible that she went insane; now Mrs. Venable wants Catherine lobotomized to cover up the truth.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The 39 Steps",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "In London, a diplomat accidentally becomes involved in the death of a British agent who's after a spy ring that covets British military secrets.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Plan 9 from Outer Space",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "Evil aliens attack Earth and set their terrible \"Plan 9\" into action. As the aliens resurrect the dead of the Earth, the lives of the living are in danger.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Imitation of Life",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Drama",
+        "description": "An aspiring actress befriends a black widow, but trouble arises when the latter is rejected by her daughter, who tries to pass for white.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Hanging Tree",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Western",
+        "description": "Character study of a Doctor who saves a local criminal from a mob who are trying to hang him, but then tries to control the life of the young man, realizing that he can exploit his secret.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Operation Petticoat",
+        "certificate": "",
+        "runtime": "124 min",
+        "genre": "Comedy, Romance, War",
+        "description": "During World War II, a commander finds himself stuck with a decrepit (and pink) submarine, a con man executive officer, and a group of army nurses.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Porgy and Bess",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "A woman whose past is scorned by nearly everyone around her meets a man who'd love her regardlessly- if only everyone else would allow them to.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Journey to the Center of the Earth",
+        "certificate": "",
+        "runtime": "129 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "An Edinburgh professor and assorted colleagues follow an explorer's trail down an extinct Icelandic volcano to the earth's center.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Pillow Talk",
+        "certificate": "A",
+        "runtime": "102 min",
+        "genre": "Comedy, Romance",
+        "description": "A man and a woman who share a party line cannot stand each other, but he has fun romancing her with his voice disguised.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Expresso Bongo",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Drama, Music",
+        "description": "Johnny Jackson, a sleazy talent agent, discovers teenager Bert Rudge singing in a coffee house. Despite Bert's protestation that he really is only interested in playing bongos, Johnny ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Last Train from Gun Hill",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Romance, Western",
+        "description": "A marshal tries to bring the son of an old friend, an autocratic cattle baron, to justice for his role in the rape and murder of the marshal's Native American wife.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "On the Beach",
+        "certificate": "",
+        "runtime": "134 min",
+        "genre": "Drama, Romance, Sci-Fi",
+        "description": "After a global nuclear war, the residents of Australia must come to terms with the fact that all life will be destroyed in a matter of months.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Darby O'Gill and the Little People",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "A wily old codger matches wits with the King of the Leprechauns and helps play matchmaker for his daughter and the strapping lad who has replaced him as caretaker.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Diary of Anne Frank",
+        "certificate": "",
+        "runtime": "180 min",
+        "genre": "Biography, Drama, Family",
+        "description": "During World War II, a teenage Jewish girl named Anne Frank and her family are forced into hiding in the Nazi-occupied Netherlands.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "House on Haunted Hill",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Horror, Mystery",
+        "description": "A millionaire offers $10,000 to five people who agree to be locked in a large, spooky, rented house overnight with him and his wife.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Horse Soldiers",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Adventure, Romance, War",
+        "description": "In 1863, a Union outfit is sent behind Confederate lines in Mississippi to destroy enemy railroads but a captive southern belle and the unit's doctor cause frictions within ranks.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Orfeu Negro",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama, Fantasy, Music",
+        "description": "A retelling of the Orpheus and Eurydice myth, set during the time of the Carnaval in Rio de Janeiro.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Die Br\u00fccke",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Drama, War",
+        "description": "In 1945, Germany is being overrun, and nobody is left to fight but teenagers.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Room at the Top",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Drama, Romance",
+        "description": "An ambitious young accountant plots to wed a wealthy factory owner's daughter, despite falling in love with a married older woman.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Teenagers from Outer Space",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "A young alien and a teenage earthling fall in love, and plot to stop the alien's race from using Earth as a food-breeding ground for giant lobsters from their planet.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Warlock",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Drama, Western",
+        "description": "A famous gunman becomes the marshal of Warlock to end a gang's rampages, but is met with some opposition by a former gang member turned deputy sheriff who wants to follow only legal methods.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Hiroshima mon amour",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "No Name on the Bullet",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Action, Drama, Romance",
+        "description": "When hired killer John Gant rides into Lordsburg, the town's folk become paranoid as each leading citizen has enemies capable of using the services of a professional killer for personal revenge.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Devil's Disciple",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Comedy, History, Romance",
+        "description": "The black sheep of a family and the local minister discover their true vocations during the Revolutionary War.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Nun's Story",
+        "certificate": "",
+        "runtime": "149 min",
+        "genre": "Drama",
+        "description": "After leaving a wealthy Belgian family to become a nun, Sister Luke struggles with her devotion to her vows during crisis, disappointment, and World War II.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "A Summer Place",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Drama, Romance",
+        "description": "A self-made businessman rekindles a romance with a former flame while their two teenage children begin a romance of their own with drastic consequences for both couples.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Les cousins",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Drama",
+        "description": "A pair of cousins share a flat, but animosity begins to build between the two when a woman gets involved.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Westbound",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Action, Romance, War",
+        "description": "In 1864 Capt. John Hayes goes to Colorado to take over the stagecoach line and keep the flow of Western gold flowing and help the North win the Civil War.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Shaggy Dog",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Family, Comedy, Fantasy",
+        "description": "A teenage boy is cursed with periodically turning into an sheepdog.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Life in Emergency Ward 10",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Drama",
+        "description": "A new registrar, with a revolutionary heart lung machine he has bought from America, joins a small county hospital, and has to win over his colleagues, including the senior house surgeon, ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Wild and the Innocent",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "In Wyoming, mountain trapper Yancy goes to the nearest town to trade his pelts but gets into trouble when he tries to save runaway saloon girl Rosalie from her shameful job.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Ningen no j\u00f4ken",
+        "certificate": "",
+        "runtime": "208 min",
+        "genre": "Drama, War",
+        "description": "A Japanese pacifist, unable to face the dire consequences of conscientious objection, is transformed by his attempts to compromise with the demands of war-time Japan.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Solomon and Sheba",
+        "certificate": "",
+        "runtime": "141 min",
+        "genre": "Drama, History, Romance",
+        "description": "After becoming king of ancient Israel, Solomon faces threats coming from his jealous dispossessed brother Adonijah, the Egyptian Pharaoh and the scheming Queen of Sheba.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Gidget",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy",
+        "description": "A young girl discovers surfing and love (in that order) during one transitive summer.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Ercole e la regina di Lidia",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Adventure, Fantasy",
+        "description": "While negotiating peace between two brothers contesting the throne of Thebes, an amnesiac Hercules is seduced by the evil Queen Omphale.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Pickpocket",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Crime, Drama",
+        "description": "Michel is released from jail after serving a sentence for thievery. His mother dies and he resorts to pickpocketing as a means of survival.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Ohay\u00f4",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Two boys begin a silence strike to press their parents into buying them a television set.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Li'l Abner",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Comedy, Musical, Family",
+        "description": "As Sadie Hawkins Day approaches, Daisy Mae hopes to win the hand of Li'l Abner by catching him in the traditional race.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Man Who Could Cheat Death",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "A centenarian artist and scientist in 1890 Paris maintains his youth and health by periodically replacing a gland with that of a living person.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Atomic Submarine",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "Ships mysteriously disappear on route across the Arctic Sea, and a specially-equipped submarine is sent to investigate.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Mummy",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Adventure, Horror",
+        "description": "In 1895, British archaeologists find and open the tomb of Egyptian Princess Ananka with nefarious consequences.",
+        "director": "",
+        "stars": []
+    }
+}

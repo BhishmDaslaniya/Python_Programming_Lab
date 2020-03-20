@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Spartacus",
+        "certificate": "",
+        "runtime": "197 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "The slave Spartacus leads a violent revolt against the decadent Roman Republic.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Psycho",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Magnificent Seven",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Action, Adventure, Western",
+        "description": "Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Apartment",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Swiss Family Robinson",
+        "certificate": "G",
+        "runtime": "126 min",
+        "genre": "Adventure, Family",
+        "description": "A Swiss family must survive being shipwrecked on a deserted island.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "La dolce vita",
+        "certificate": "",
+        "runtime": "174 min",
+        "genre": "Comedy, Drama",
+        "description": "A series of stories following a week in the life of a philandering paparazzo journalist living in Rome.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "The Time Machine",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Adventure, Romance, Sci-Fi",
+        "description": "A man's vision for a utopian society is disillusioned when travelling forward into time reveals a dark and dangerous society.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "\u00c0 bout de souffle",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Crime, Drama",
+        "description": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he reunites with a hip American journalism student and attempts to persuade her to run away with him to Italy.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Les yeux sans visage",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Horror",
+        "description": "A surgeon causes an accident which leaves his daughter disfigured, and goes to extremes to give her a new face.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The League of Gentlemen",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Comedy, Crime, Thriller",
+        "description": "A disgruntled veteran recruits a group of disgraced colleagues to perform a bank robbery with military precision.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Ocean's Eleven",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Comedy, Crime, Music",
+        "description": "Danny Ocean gathers a group of his World War II compatriots to pull off the ultimate Las Vegas heist. Together the eleven friends plan to rob five Las Vegas casinos in one night.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Pollyanna",
+        "certificate": "",
+        "runtime": "134 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A young girl comes to an embittered town and confronts its attitude with her determination to see the best in life.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Murder, Inc.",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "The rise and fall of a 1930's Brooklyn crime syndicate, known as Murder Incorporated, led by mobster Lepke Buchalter.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Exodus",
+        "certificate": "",
+        "runtime": "208 min",
+        "genre": "Action, Drama, History",
+        "description": "The state of Israel is created in 1948, resulting in war with its Arab neighbors.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Alamo",
+        "certificate": "",
+        "runtime": "162 min",
+        "genre": "Adventure, Drama, History",
+        "description": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Plein soleil",
+        "certificate": "PG-13",
+        "runtime": "118 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Little Shop of Horrors",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Comedy, Horror",
+        "description": "A clumsy young man nurtures a plant and discovers that it's carnivorous, forcing him to kill to feed it.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Last Woman on Earth",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "Ev, along with her husband, Harold, and their lawyer friend Martin, are scuba diving while on vacation in Puerto Rico. When they resurface, they gradually conclude that an unexplained, ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Strangers When We Meet",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Drama, Romance",
+        "description": "A suburban architect loves his wife but is bored with his marriage and with his work, so he takes up with the neglected, married beauty who lives down the street.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Hanyo",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A composer and his wife are thrown into turmoil when a housemaid becomes more than they bargained for.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "BUtterfield 8",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Drama",
+        "description": "A Manhattan call girl has a tragic affair with a rich married man.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Peeping Tom",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "A young man murders women, using a movie camera to film their dying expressions of terror.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "L'avventura",
+        "certificate": "",
+        "runtime": "144 min",
+        "genre": "Drama, Mystery",
+        "description": "A woman disappears during a Mediterranean boating trip. During the search, her lover and her best friend become attracted to each other.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "North to Alaska",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Comedy, Romance, Western",
+        "description": "During the Alaska gold rush, prospector George sends partner Sam to Seattle to bring his fianc\u00e9e but when it turns out that she married another man, Sam returns with a pretty substitute, the hostess of the Henhouse dance hall.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Unforgiven",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Drama, Romance, Western",
+        "description": "The neighbors of a frontier family turn on them when it is suspected that their adopted daughter was stolen from the local Kiowa tribe.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Jungfruk\u00e4llan",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Drama",
+        "description": "An innocent yet pampered young virgin and her family's pregnant and jealous servant set out to deliver candles to church, but only one returns from events that transpire in the woods along the way.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "La ciociara",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Drama, War",
+        "description": "In the Italy of WWII, a widow and her lonely daughter seek for distance between them and the horrors of war.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Elmer Gantry",
+        "certificate": "",
+        "runtime": "146 min",
+        "genre": "Drama",
+        "description": "A fast-talking traveling salesman with a charming, loquacious manner convinces a sincere evangelist that he can be an effective preacher for her cause.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Inherit the Wind",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Biography, Drama, History",
+        "description": "Based on a real-life case in 1925, two great lawyers argue the case for and against a science teacher accused of the crime of teaching evolution.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Seven Ways from Sundown",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A Texas Ranger must capture an outlaw and take him-in, while tangling with savage Apaches and greedy bounty-hunters on the way back to jail.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Babes in Toyland",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "All roads lead to magical, merry Toyland as Mary Contrary and Tom Piper prepare for their wedding. But villainous Barnaby wants Mary for himself, so he kidnaps Tom, setting off a series of comic chases, searches, and double-crosses.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Cimarron",
+        "certificate": "",
+        "runtime": "147 min",
+        "genre": "Drama, Romance, Western",
+        "description": "The Oklahoma Land Run of April 1889 sets the stage for an epic saga of a frontier adventurer, his wife and family and their friends.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Fugitive Kind",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Romance",
+        "description": "Valentine \"Snakeskin\" Xavier, a trouble-prone drifter trying to go straight, wanders into a small Mississippi town looking for a simple and honest life but finds himself embroiled with problem-filled women.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Rocco e i suoi fratelli",
+        "certificate": "",
+        "runtime": "177 min",
+        "genre": "Crime, Drama, Sport",
+        "description": "Having recently been uprooted to Milan, Rocco and his four brothers each look for a new way in life when a prostitute comes between Rocco and his brother Simone.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Lost World",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Adventure, Fantasy, Sci-Fi",
+        "description": "Professor Challenger leads an expedition of scientists and adventurers to a remote plateau deep in the Amazonian jungle to verify his claim that dinosaurs still live there.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Where the Boys Are",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Four very different college girls drive to Fort Lauderdale, Florida for spring break and seek out various adventures and romance for themselves.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Cinderfella",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "This was Jerry Lewis' answer to the classic Cinderella story. When his father dies, poor Cinderfella (Jerry Lewis) Fella is left at the mercy of his snobbish stepmother (Dame Judith ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Wild River",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, History, Romance",
+        "description": "A TVA bureaucrat comes to the river to do what none of his predecessors have been able to do - evict a stubborn octogenarian from her island before the rising waters engulf her.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Brides of Dracula",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Horror",
+        "description": "Vampire hunter Van Helsing returns to Transylvania to destroy handsome bloodsucker Baron Meinster, who has designs on beautiful young schoolteacher Marianne.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Plunderers",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Western",
+        "description": "When four rowdy cowhands ride into a small town and make trouble, no one seems willing or able to take them on, not even Sam Christy, the toughest man in town. But then there is a murder.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Tirez sur le pianiste",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Charlie is approached by his crook brother Chico, who is chased by two gangsters. Charlie helps him to escape, but he upsets the criminals, so when his brother Fido is kidnapped, Charlie has to take an attitude with tragic consequences.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "La maschera del demonio",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Horror",
+        "description": "A vengeful witch and her fiendish servant return from the grave and begin a bloody campaign to possess the body of the witch's beautiful look-alike descendant, with only the girl's brother and a handsome doctor standing in her way.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Hell Bent for Leather",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Western",
+        "description": "Mistaken for a murderous outlaw, an innocent passerby is forced to go on the run to try and clear his name by catching the real culprit.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Sunrise at Campobello",
+        "certificate": "",
+        "runtime": "144 min",
+        "genre": "Biography, Drama",
+        "description": "In 1921, unsuccessful vice-presidential candidate Franklin D. Roosevelt contracts poliomyelitis and, with the help of his wife Anna Eleanor Roosevelt and close friend Louis Howe, battles his newfound disability.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Village of the Damned",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "In the English village of Midwich, the blonde-haired, glowing-eyed children of uncertain paternity prove to have frightening powers.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Surprise Package",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy",
+        "description": "An American gangster is exiled from the United States for criminal activity and is sent back to the Greek island where he was born. Once on the island, he is watched by a corrupt local ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Pote tin Kyriaki",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "An American scholar in Greece sets about improving the prostitute with whom he is infatuated.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Le trou",
+        "certificate": "",
+        "runtime": "131 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "In prison four long-sentence inmates planning an elaborate escape cautiously induct a new inmate to join in their scheme which leads to distrust and uncertainty.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Saturday Night and Sunday Morning",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Drama, Romance",
+        "description": "A rebellious, hard-living factory worker juggles relationships with two women, one of whom is married to another man but pregnant with his child.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Warui yatsu hodo yoku nemuru",
+        "certificate": "",
+        "runtime": "151 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A vengeful young man marries the daughter of a corrupt industrialist in order to seek justice for his father's suicide.",
+        "director": "",
+        "stars": []
+    }
+}

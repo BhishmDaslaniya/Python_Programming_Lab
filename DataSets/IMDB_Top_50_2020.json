@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
+        "certificate": "A",
+        "runtime": "109 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Sonic the Hedgehog",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "After discovering a small, blue, fast hedgehog, a small-town police officer must help it defeat an evil genius who wants to do experiments on it.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The French Dispatch",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional 20th-century French city that brings to life a collection of stories published in \"The French Dispatch\" magazine.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Fantasy Island",
+        "certificate": "A",
+        "runtime": "109 min",
+        "genre": "Adventure, Comedy, Horror",
+        "description": "A horror adaptation of the popular '70s TV show about a magical island resort.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Dolittle",
+        "certificate": "U",
+        "runtime": "101 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "To All the Boys: P.S. I Still Love You",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Drama, Romance",
+        "description": "Lara Jean and Peter have just taken their relationship from pretend to officially official when another recipient of one of her old love letters enters the picture.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Horse Girl",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Drama, Mystery",
+        "description": "Sarah, a socially isolated woman with a fondness for arts and crafts, horses, and supernatural crime shows finds her increasingly lucid dreams trickling into her waking life.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Hunt",
+        "certificate": "R",
+        "runtime": "",
+        "genre": "Action, Horror, Thriller",
+        "description": "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Bad Boys for Life",
+        "certificate": "A",
+        "runtime": "124 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "No Time to Die",
+        "certificate": "PG-13",
+        "runtime": "",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Emma.",
+        "certificate": "PG",
+        "runtime": "124 min",
+        "genre": "Comedy, Drama",
+        "description": "In 1800s England, a well meaning but selfish young woman meddles in the love lives of her friends.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Green Knight",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "A fantasy re-telling of the medieval story of Sir Gawain and the Green Knight.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "F9",
+        "certificate": "",
+        "runtime": "135 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "Cypher enlists the help of Jakob, Dom's younger brother to take revenge on Dom and his team.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Gretel & Hansel",
+        "certificate": "UA",
+        "runtime": "87 min",
+        "genre": "Fantasy, Horror, Thriller",
+        "description": "A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Downhill",
+        "certificate": "R",
+        "runtime": "86 min",
+        "genre": "Comedy, Drama",
+        "description": "Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Invisible Man",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Malang - Unleash the Madness",
+        "certificate": "A",
+        "runtime": "135 min",
+        "genre": "Action, Romance",
+        "description": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "After We Collided",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, Romance",
+        "description": "Based on the 2014 romance novel of the same name, this follows the love life of two young adults.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Spiral: From the Book of Saw",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Crime, Horror, Mystery",
+        "description": "A sadistic mastermind unleashes a twisted form of justice in SPIRAL, the terrifying new chapter from the book of SAW.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Call of the Wild",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "A sled dog struggles for survival in the wilds of the Yukon.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Black Widow",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A film about Natasha Romanoff in her quests between the films Civil War and Infinity War.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Tenet",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Drama, Thriller",
+        "description": "An action epic revolving around international espionage, time travel, and evolution. Possibly about a man trying to prevent World War 3 through time travel and rebirth.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Photograph",
+        "certificate": "PG-13",
+        "runtime": "106 min",
+        "genre": "Drama, Romance",
+        "description": "A series of intertwining love stories set in the past and in the present.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "365 dni",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Drama",
+        "description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Wonder Woman 1984",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Plot unknown. A sequel to the 2017 superhero film 'Wonder Woman.'",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Top Gun: Maverick",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Drama",
+        "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Underwater",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Action, Drama, Horror",
+        "description": "A crew of aquatic researchers work to get to safety after an earthquake devastates their subterranean laboratory. But the crew has more than the ocean seabed to fear.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Love Aaj Kal",
+        "certificate": "UA",
+        "runtime": "142 min",
+        "genre": "Romance",
+        "description": "Two different individuals on a journey of love, loss and life through the phases of Reincarnation.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Dune",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "description": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Mulan",
+        "certificate": "PG-13",
+        "runtime": "",
+        "genre": "Action, Adventure, Drama",
+        "description": "A young Chinese maiden disguises herself as a male warrior in order to save her father. A live-action feature film based on Disney's 'Mulan.'",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Rhythm Section",
+        "certificate": "A",
+        "runtime": "109 min",
+        "genre": "Action, Drama, Mystery",
+        "description": "A woman seeks revenge against those who orchestrated a plane crash that killed her family.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Brahms: The Boy II",
+        "certificate": "A",
+        "runtime": "86 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Timmy Failure: Mistakes Were Made",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "An 11-year-old boy who believes that he is the best detective in town runs the agency Total Failures with his best friend, an imaginary 1,200-pound polar bear.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "A Quiet Place Part II",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Horror, Thriller",
+        "description": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Eternals",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Drama",
+        "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Way Back",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Drama, Sport",
+        "description": "A former HS basketball phenom, struggling with alcoholism, is offered a coaching job at his alma mater. As the team starts to win, he may have a reason to confront his old demons. But will it be enough to set him on the road to redemption?",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Turning",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "A young governess is hired by a man who has become responsible for his young nephew and niece after their parents' deaths. A modern take on Henry James' novella \"The Turn of the Screw.\"",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "A Fall from Grace",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Drama, Thriller",
+        "description": "Disheartened since her ex-husband's affair, Grace Waters feels restored by a new romance. But when secrets erode her short-lived joy, Grace's vulnerable side turns violent.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Shikara",
+        "certificate": "UA",
+        "runtime": "118 min",
+        "genre": "Drama, Romance",
+        "description": "Shikara is the story of resilience in the face of insurmountable odds. It's also the story of a love that remains unextinguished through 30 years of exile. A timeless love story in the worst of times.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Dragonheart Vengeance",
+        "certificate": "PG-13",
+        "runtime": "97 min",
+        "genre": "Fantasy",
+        "description": "Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Halloween Kills",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Horror, Thriller",
+        "description": "The saga of Michael Myers and Laurie Strode continues in the next thrilling chapter of the Halloween series.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Godzilla vs. Kong",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "As the gigantic Kong meets the unstoppable Godzilla, the world watches to see which one of them will become King of the Monsters.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Bloodshot",
+        "certificate": "PG-13",
+        "runtime": "109 min",
+        "genre": "Action, Drama, Sci-Fi",
+        "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Bill & Ted Face the Music",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy, Music, Sci-Fi",
+        "description": "Once told they'd save the universe during a time-traveling adventure, 2 would-be rockers from San Dimas, California find themselves as middle-aged dads still trying to crank out a hit song and fulfill their destiny.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Onward",
+        "certificate": "PG",
+        "runtime": "114 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Set in a suburban fantasy world, two teenage elf brothers embark on a quest to discover if there is still magic out there.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Resistance",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Biography, Drama, History",
+        "description": "The story of a group of Jewish Boy Scouts who worked with the French Resistance to save the lives of ten thousand orphans during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The New Mutants",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Morbius",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Drama",
+        "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The King's Man",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Comedy",
+        "description": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Coming 2 America",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy",
+        "description": "Akeem learns he has a long-lost son in the United States and must return to America to meet the unlikely heir to the throne of Zamunda. A sequel to the 1988 comedy 'Coming to America'.",
+        "director": "",
+        "stars": []
+    }
+}
